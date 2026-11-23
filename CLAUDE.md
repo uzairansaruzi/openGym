@@ -3,6 +3,9 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 For people, the same map with diagrams is [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
+**Fork:** this checkout is Uzair's fork. Read [FORK.md](FORK.md) before branching, committing,
+syncing with upstream, opening a PR, or building for his phone.
+
 ## What this is
 
 openGym is a self-hosted gym and body-weight tracker. Two containers (`api` + `web`) plus a
