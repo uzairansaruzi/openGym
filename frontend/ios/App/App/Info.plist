@@ -108,7 +108,7 @@
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Used to record the sound of a video you take of an exercise you add yourself or of a set you film, and the voice clips you record for the rest timer.</string>
 	<key>BAAppGroupID</key>
-	<string>group.ch.opengym.app</string>
+	<string>group.com.uzairansar.opengym</string>
 	<key>BAHasManagedAssetPacks</key>
 	<true/>
 	<key>BAUsesAppleHosting</key>

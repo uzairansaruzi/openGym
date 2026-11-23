@@ -18,7 +18,7 @@ import WidgetKit
 
 /// The App Group the app, the widget extension and the asset pack downloader share.
 enum OpenGymGroup {
-    static let id = "group.ch.opengym.app"
+    static let id = "group.com.uzairansar.opengym"
     static var defaults: UserDefaults { UserDefaults(suiteName: id) ?? .standard }
     static var container: URL? { FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: id) }
 }
